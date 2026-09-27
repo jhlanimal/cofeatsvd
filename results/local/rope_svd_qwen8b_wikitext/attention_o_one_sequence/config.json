@@ -1,0 +1,41 @@
+{
+  "model_path": "/mnt/data_sda1/share/Qwen3-8B",
+  "data_path": "/mnt/data1/jhl1/llama_data/llm_data/wikitext-2-raw-v1",
+  "output_dir": "results/rope_svd_qwen8b_wikitext/attention_o_one_sequence",
+  "selected_layers": [
+    9,
+    18,
+    27
+  ],
+  "zero_based": true,
+  "seq_len": 4096,
+  "num_sequences": 1,
+  "ranks": [
+    64,
+    80,
+    96
+  ],
+  "ours_page": 32,
+  "seed": 42,
+  "transformers": "4.57.6",
+  "physical_gpu": "GPU-acbf76cc-375f-c447-2717-40d0f27b59d9",
+  "input_sha256": "4812b066d3d6a846a47690258afe1e6caa45a32c6bd4080e471df80f60034bf0",
+  "comparison": "same Full Q/K/V, pre-o_proj O; FP32 scores and reductions",
+  "pre": "whole-sequence SVD + exact original per-token RoPE, factor-only scores",
+  "post": "whole-sequence post-RoPE SVD, factor-only scores",
+  "ours": "real weighted_coalescing_pages_batched; BF16 c/coeff, uint8 owners; dense active page",
+  "caveats": [
+    "one-sequence descriptive diagnostic, no confidence intervals",
+    "global SVD uses future-token statistics",
+    "rank vs m is NOT storage-matched",
+    "Ours differs in paging and active-page handling, not only grouping"
+  ],
+  "score_checks": {
+    "pre_score_max_abs": 7.62939453125e-06,
+    "ours_score_max_abs": 4.76837158203125e-06
+  },
+  "num_layers": 36,
+  "num_kv_heads": 8,
+  "num_query_heads": 32,
+  "head_dim": 128
+}

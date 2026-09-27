@@ -1,0 +1,3 @@
+path,profile_tokens,decode_cuda_ms_per_token,attention_cuda_ms_per_token,non_attention_cuda_ms_per_token,ours_qkv_norm_rope_ms_per_token,ours_reconstruct_k_ms_per_token,ours_native_attention_ms_per_token,ours_o_proj_ms_per_token,ours_page_seal_ms_per_token,aten::mm,aten::copy_,aten::cat,aten::arange,aten::linalg_eigh,aten::_linalg_eigh,cudaLaunchKernel,Memcpy DtoD (Device -> Device)
+Full-native,8,92.858,58.968,33.89,0.0,0.0,0.0,0.0,0.0,13.32825,1.520125,0.46525,0.00225,0.0,0.0,1.596375,0.0
+Ours-v2-BF16,8,267.76625,99.549625,168.21662500000002,31.94475,0.05475,7.352125,1.56375,65.534875,13.146,3.457375,0.220125,0.21275,3.43025,3.43025,0.0,1.404

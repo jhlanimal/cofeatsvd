@@ -1,0 +1,31 @@
+{
+  "model": "/data/share/Meta-Llama-3.1-8B-Instruct",
+  "method": "CoFeatKV",
+  "runner_method": "ours_direct_v2",
+  "m": 64,
+  "page_size": 32,
+  "shots": 0,
+  "prompt_format": "plain MMLU, Answer:",
+  "option_strings": [
+    " A",
+    " B",
+    " C",
+    " D"
+  ],
+  "option_ids": [
+    362,
+    426,
+    356,
+    423
+  ],
+  "dtype": "bfloat16",
+  "max_tokens": 4096,
+  "shard": 3,
+  "num_shards": 4,
+  "limit": 0,
+  "target": 3510,
+  "protocol": "cofeatkv-compressed-final-prompt-token-v1",
+  "dataset_sha256": "27d858c18fccbca216ca56528cdd87738aa0d1f13834649e4f94fac246e18a16",
+  "code_sha256": "0d52beea55b50000686f297c1ad64f0cee1aed81495d684e367821d7ba7e13d0",
+  "runner_sha256": "c91a678a2a77f4e4f6120e7e928f74a25e0fbf09be537ab512a5842ac31cb15d"
+}

@@ -1,0 +1,380 @@
+{
+  "Qwen3-8B": {
+    "full": {
+      "qasper": {
+        "n": 200,
+        "target": 200,
+        "score": 12.0,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/full/qasper/qasper.jsonl",
+        "sha256": "c4c1566685f50bc9513ce20f37864de89413157497dc7abbb53406d899087677",
+        "role_marker_n": 0
+      },
+      "multifieldqa_en": {
+        "n": 150,
+        "target": 150,
+        "score": 14.11,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/full/multifieldqa_en/multifieldqa_en.jsonl",
+        "sha256": "0632b3a1b1ee7aa21128decb15f3e817e21b582c08c146ef60d502aeb7faf1af",
+        "role_marker_n": 0
+      },
+      "hotpotqa": {
+        "n": 200,
+        "target": 200,
+        "score": 2.84,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/full/hotpotqa/hotpotqa.jsonl",
+        "sha256": "34e3b81f0fb9f75ba9e636009d120256cc6e66453203d864318132a56872b521",
+        "role_marker_n": 0
+      },
+      "2wikimqa": {
+        "n": 200,
+        "target": 200,
+        "score": 7.54,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/full/2wikimqa/2wikimqa.jsonl",
+        "sha256": "dccae164b230da1e0e1cc3acc8728d059900ace6127eaa64c28bf1194b9026d9",
+        "role_marker_n": 0
+      },
+      "gov_report": {
+        "n": 56,
+        "target": 200,
+        "score": 28.32,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/full/gov_report/gov_report.jsonl",
+        "sha256": "1a1ad3cb420d698562dc265206b9532e94a9cc7c1c2bdde8336503915ec85f49",
+        "role_marker_n": 0
+      },
+      "qmsum": {
+        "n": 200,
+        "target": 200,
+        "score": 17.52,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/full/qmsum/qmsum.jsonl",
+        "sha256": "f83d00193e3649ef001c6f0131efebf057c9df7c14ebcab0175b64627e13608c",
+        "role_marker_n": 0
+      },
+      "trec": {
+        "n": 200,
+        "target": 200,
+        "score": 71.5,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/full/trec/trec.jsonl",
+        "sha256": "91b024dc07de4427a09e8c6fb4cc0fabb5c15a4dc7ff3c5d58dde68605bebda6",
+        "role_marker_n": 0
+      },
+      "repobench-p": {
+        "n": 224,
+        "target": 500,
+        "score": 62.87,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/full/repobench-p/repobench-p.jsonl",
+        "sha256": "9b144d7402cfb5e79db84d064ac6c6f4275b892604af290113cdf6cfe06ee584",
+        "role_marker_n": 0
+      }
+    },
+    "Palu": {
+      "qasper": {
+        "n": 200,
+        "target": 200,
+        "score": 9.01,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/Palu/qasper/qasper.jsonl",
+        "sha256": "9dfba753c1f702b2362fd44f92dd6e7d7c016e9e1a637dc62bd1a4f219f83426",
+        "role_marker_n": 0
+      },
+      "multifieldqa_en": {
+        "n": 150,
+        "target": 150,
+        "score": 16.15,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/Palu/multifieldqa_en/multifieldqa_en.jsonl",
+        "sha256": "02bc993e39b85dbbd636bd9614c1d1d02047d1c315ddf30cafdad3cc2e33443b",
+        "role_marker_n": 0
+      },
+      "hotpotqa": {
+        "n": 200,
+        "target": 200,
+        "score": 4.95,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/Palu/hotpotqa/hotpotqa.jsonl",
+        "sha256": "7b465a1e6670bab7a811a0730d849e2d8644efa5dbfa66670d22517c256a7825",
+        "role_marker_n": 0
+      },
+      "2wikimqa": {
+        "n": 200,
+        "target": 200,
+        "score": 7.35,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/Palu/2wikimqa/2wikimqa.jsonl",
+        "sha256": "99573fb9461ea3fe95f3fb5f5d4318727ed03c5f9b3cd5239e81b56da6f1e46b",
+        "role_marker_n": 0
+      },
+      "gov_report": {
+        "n": 56,
+        "target": 200,
+        "score": 28.42,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/Palu/gov_report/gov_report.jsonl",
+        "sha256": "3256f15366c308438332b1d074ea0ed9c08e5916dc1b864afa6822ac1391aaef",
+        "role_marker_n": 0
+      },
+      "qmsum": {
+        "n": 200,
+        "target": 200,
+        "score": 18.16,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/Palu/qmsum/qmsum.jsonl",
+        "sha256": "cd38b23ad31c85aff545c8314306753f5178089991b2674ef12411f8364215f7",
+        "role_marker_n": 0
+      },
+      "trec": {
+        "n": 200,
+        "target": 200,
+        "score": 69.0,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/Palu/trec/trec.jsonl",
+        "sha256": "19d2bf6bda6db372aa2cf5fbfd69ac2402b20f93f2eddc740d915feab10bb8c6",
+        "role_marker_n": 0
+      },
+      "repobench-p": {
+        "n": 224,
+        "target": 500,
+        "score": 46.02,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/Palu/repobench-p/repobench-p.jsonl",
+        "sha256": "465e964a1a179124c14407f3f90ce1a128d1747523c3f1c22b80002a037845b0",
+        "role_marker_n": 0
+      }
+    },
+    "OjaKV": {
+      "qasper": {
+        "n": 57,
+        "target": 200,
+        "score": 7.1,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/OjaKV/qasper/qasper.jsonl",
+        "sha256": "679ae933cb17d221fb971c82dd31de834bf4d35e4ea5148e0f1d897f916617a5",
+        "role_marker_n": 0
+      },
+      "multifieldqa_en": {
+        "n": 150,
+        "target": 150,
+        "score": 14.05,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/OjaKV/multifieldqa_en/multifieldqa_en.jsonl",
+        "sha256": "18bb69ea47b3f6203342eacf3ff8d63bbc5f05efb38b35878dcc5a04da26f7a6",
+        "role_marker_n": 0
+      },
+      "hotpotqa": {
+        "n": 200,
+        "target": 200,
+        "score": 2.79,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/OjaKV/hotpotqa/hotpotqa.jsonl",
+        "sha256": "5b94ec3c374f694de0f541e98d2ee4bd71fdaf132a5282dae674529646760eea",
+        "role_marker_n": 0
+      },
+      "2wikimqa": {
+        "n": 200,
+        "target": 200,
+        "score": 7.65,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/OjaKV/2wikimqa/2wikimqa.jsonl",
+        "sha256": "58ddc2bfcfeceb86a6f61c2de6adf1e909db5374e9d4d15adfe8892eb9f1d768",
+        "role_marker_n": 0
+      },
+      "gov_report": {
+        "n": 29,
+        "target": 200,
+        "score": 20.63,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/OjaKV/gov_report/gov_report.jsonl",
+        "sha256": "a3b4b5f8b5241c04ab546122506a201b862f44717e040192c5f22ad851249b3c",
+        "role_marker_n": 0
+      },
+      "qmsum": {
+        "n": 19,
+        "target": 200,
+        "score": 16.85,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/OjaKV/qmsum/qmsum.jsonl",
+        "sha256": "9a4dad1a7bcbffd6c8bf9d85a7baa60c14eff4aaf3c35df1cffb572cee024ac8",
+        "role_marker_n": 0
+      },
+      "trec": {
+        "n": 200,
+        "target": 200,
+        "score": 70.5,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/OjaKV/trec/trec.jsonl",
+        "sha256": "0907b9321237d191c79281cb86d29ad388eb40fadc21f1c07d71461e865ac747",
+        "role_marker_n": 0
+      },
+      "repobench-p": {
+        "n": 34,
+        "target": 500,
+        "score": 37.03,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/OjaKV/repobench-p/repobench-p.jsonl",
+        "sha256": "58953c9c662977d5c267a0fcfba4ad51cff76a6ac55ac36fbc530225a1314ab6",
+        "role_marker_n": 0
+      }
+    },
+    "ReCalKV": {
+      "qasper": {
+        "n": 200,
+        "target": 200,
+        "score": 9.15,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/ReCalKV/qasper/qasper.jsonl",
+        "sha256": "69949f4992012671fd513735890cc8e1ce5b77f4d015808e3690e44e89804998",
+        "role_marker_n": 0
+      },
+      "multifieldqa_en": {
+        "n": 150,
+        "target": 150,
+        "score": 13.6,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/ReCalKV/multifieldqa_en/multifieldqa_en.jsonl",
+        "sha256": "d58ccbbfd5c6c038515aa630973a671127d404d41bb03a7c624b5a864e508eeb",
+        "role_marker_n": 0
+      },
+      "hotpotqa": {
+        "n": 200,
+        "target": 200,
+        "score": 2.47,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/ReCalKV/hotpotqa/hotpotqa.jsonl",
+        "sha256": "72a7cd83c6ecd9b278fb7766e118f650044c95e8039a45130aa82be95794f05f",
+        "role_marker_n": 0
+      },
+      "2wikimqa": {
+        "n": 200,
+        "target": 200,
+        "score": 6.53,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/ReCalKV/2wikimqa/2wikimqa.jsonl",
+        "sha256": "f3b7eea01a8369a970623e08773b2fbe1e3b9af9327f86dc54eb862793f199ef",
+        "role_marker_n": 0
+      },
+      "gov_report": {
+        "n": 56,
+        "target": 200,
+        "score": 27.66,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/ReCalKV/gov_report/gov_report.jsonl",
+        "sha256": "6dc252a7d255745798dc1fe177efa993cba23e73cf59db580f47ac6396bc55df",
+        "role_marker_n": 0
+      },
+      "qmsum": {
+        "n": 200,
+        "target": 200,
+        "score": 18.02,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/ReCalKV/qmsum/qmsum.jsonl",
+        "sha256": "7534f48c5c869edb7fb7ec3400a238f58fa95e359f94162cb0de2f39d0f34b74",
+        "role_marker_n": 0
+      },
+      "trec": {
+        "n": 200,
+        "target": 200,
+        "score": 70.0,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/ReCalKV/trec/trec.jsonl",
+        "sha256": "c1e65139f00c259f9d8208ed6326712c3f44dd9a28184ba41b6ed55c6aab4d98",
+        "role_marker_n": 0
+      },
+      "repobench-p": {
+        "n": 224,
+        "target": 500,
+        "score": 41.79,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/ReCalKV/repobench-p/repobench-p.jsonl",
+        "sha256": "fcdfa741a415786c12690ebbca1c3d90a378e32bf4ce7eed77711427ec1bec34",
+        "role_marker_n": 0
+      }
+    },
+    "ours": {
+      "qasper": {
+        "n": 200,
+        "target": 200,
+        "score": 11.89,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/ours/qasper/qasper.jsonl",
+        "sha256": "500e26f35229646509d9018b3dcce1a01093dc2090c54e0d8505f2887fcb824d",
+        "role_marker_n": 0
+      },
+      "multifieldqa_en": {
+        "n": 150,
+        "target": 150,
+        "score": 13.74,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/ours/multifieldqa_en/multifieldqa_en.jsonl",
+        "sha256": "1c612d41bf7a35a4551741c56122e7583be55a6b69e8fb87efea814468c0c537",
+        "role_marker_n": 0
+      },
+      "hotpotqa": {
+        "n": 200,
+        "target": 200,
+        "score": 2.91,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/ours/hotpotqa/hotpotqa.jsonl",
+        "sha256": "da4e35cda8dfcacdb996845010bfd3aa33821dd45189b45a28df577cb3fc4cd3",
+        "role_marker_n": 0
+      },
+      "2wikimqa": {
+        "n": 200,
+        "target": 200,
+        "score": 7.68,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/ours/2wikimqa/2wikimqa.jsonl",
+        "sha256": "c145974037fef8227ca357091f514c4a73333ffcd0690e1464c71f6115e1ef28",
+        "role_marker_n": 0
+      },
+      "gov_report": {
+        "n": 56,
+        "target": 200,
+        "score": 27.9,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/ours/gov_report/gov_report.jsonl",
+        "sha256": "431b5e2dda2a4662d3cf52c091d44842c960146d4c9e8114209d1086b1d32f5b",
+        "role_marker_n": 0
+      },
+      "qmsum": {
+        "n": 200,
+        "target": 200,
+        "score": 17.33,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/ours/qmsum/qmsum.jsonl",
+        "sha256": "e1e2463036eeb8bbc1a3e79cc7d157a91b42bab904bfebb64ce932106ee76f8c",
+        "role_marker_n": 0
+      },
+      "trec": {
+        "n": 200,
+        "target": 200,
+        "score": 72.0,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/ours/trec/trec.jsonl",
+        "sha256": "6670c8413acf35ddfd7386c317cd6a6ca18c5a6a0ea701648a0d3211f418ae61",
+        "role_marker_n": 0
+      },
+      "repobench-p": {
+        "n": 224,
+        "target": 500,
+        "score": 61.91,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_qwen8b_full/ours/repobench-p/repobench-p.jsonl",
+        "sha256": "a3056ef9e321f65d7a3af939e05f50371225d1eb37f143d4ef613cc90bfaf6c9",
+        "role_marker_n": 0
+      }
+    }
+  },
+  "Qwen3-32B": {
+    "full": {
+      "qasper": {
+        "n": 200,
+        "target": 200,
+        "score": 12.05,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_32b/full/qasper.jsonl",
+        "sha256": "b0adb08bcbd61aa0bc8c988063ee683537e3ce10257e767f01715267b6a1f4db",
+        "role_marker_n": 0
+      },
+      "multifieldqa_en": {
+        "n": 150,
+        "target": 150,
+        "score": 14.95,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_32b/full/multifieldqa_en.jsonl",
+        "sha256": "ad14883cfd6473191b3f2922124166890f7c4689e43c887eb45facb47044d6c0",
+        "role_marker_n": 0
+      },
+      "hotpotqa": {
+        "n": 200,
+        "target": 200,
+        "score": 2.94,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_32b/full/hotpotqa.jsonl",
+        "sha256": "255cd7cca786f65db2339b35b1afd676e23af3c2c99ef3724d2fe5b4b9121a5c",
+        "role_marker_n": 0
+      },
+      "2wikimqa": {
+        "n": 200,
+        "target": 200,
+        "score": 7.74,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_32b/full/2wikimqa.jsonl",
+        "sha256": "6f7be96cf8250c7fc0d7df485271a5967b672a3f3995796db5c7ac406b7604d0",
+        "role_marker_n": 0
+      },
+      "gov_report": {
+        "n": 56,
+        "target": 200,
+        "score": 29.49,
+        "path": "/home/jhl/model_inference/llm_infer/longbench_outputs_32b/full/gov_report.jsonl",
+        "sha256": "9f36c3b7ea4d864b8ca72bf31fd7779862062e17e259adb6a8f853b79bcefe4f",
+        "role_marker_n": 0
+      }
+    },
+    "ours_m64": {},
+    "ours_m80": {}
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "model": "/data/share/Qwen3-8B",
+  "method": "CoFeatKV",
+  "runner_method": "ours_direct_v2",
+  "m": 80,
+  "page_size": 32,
+  "shots": 0,
+  "prompt_format": "plain MMLU, Answer:",
+  "option_strings": [
+    " A",
+    " B",
+    " C",
+    " D"
+  ],
+  "option_ids": [
+    362,
+    425,
+    356,
+    422
+  ],
+  "dtype": "bfloat16",
+  "max_tokens": 4096,
+  "shard": 3,
+  "num_shards": 4,
+  "limit": 0,
+  "target": 3510,
+  "protocol": "cofeatkv-compressed-final-prompt-token-v1",
+  "dataset_sha256": "27d858c18fccbca216ca56528cdd87738aa0d1f13834649e4f94fac246e18a16",
+  "code_sha256": "6fb07bd9bf11cbbf9961832f821d40fb715bcfacb5a026091d902e2ab4247c20",
+  "runner_sha256": "a00cf0cb174ee6e92fdd270645b616f6bee2b8a1862adfa715842cbc417fa6ae"
+}

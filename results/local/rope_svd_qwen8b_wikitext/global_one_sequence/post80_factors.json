@@ -1,0 +1,2882 @@
+[
+  {
+    "layer": 0,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.0017239094013348222
+  },
+  {
+    "layer": 0,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.0006283586844801903
+  },
+  {
+    "layer": 0,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.0007421483751386404
+  },
+  {
+    "layer": 0,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.0013812694232910872
+  },
+  {
+    "layer": 0,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.0008714683935977519
+  },
+  {
+    "layer": 0,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.0012201470090076327
+  },
+  {
+    "layer": 0,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.0009723028633743525
+  },
+  {
+    "layer": 0,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.000732551678083837
+  },
+  {
+    "layer": 1,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.01134142279624939
+  },
+  {
+    "layer": 1,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.004787085577845573
+  },
+  {
+    "layer": 1,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.017422053962945938
+  },
+  {
+    "layer": 1,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.011736874468624592
+  },
+  {
+    "layer": 1,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.017944475635886192
+  },
+  {
+    "layer": 1,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.01775653474032879
+  },
+  {
+    "layer": 1,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.0036897503305226564
+  },
+  {
+    "layer": 1,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.025933679193258286
+  },
+  {
+    "layer": 2,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.054677534848451614
+  },
+  {
+    "layer": 2,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.044361572712659836
+  },
+  {
+    "layer": 2,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03204246982932091
+  },
+  {
+    "layer": 2,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04629262536764145
+  },
+  {
+    "layer": 2,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04193780571222305
+  },
+  {
+    "layer": 2,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.06343743205070496
+  },
+  {
+    "layer": 2,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03250334411859512
+  },
+  {
+    "layer": 2,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.01793847419321537
+  },
+  {
+    "layer": 3,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.010002566501498222
+  },
+  {
+    "layer": 3,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.06546815484762192
+  },
+  {
+    "layer": 3,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03000299073755741
+  },
+  {
+    "layer": 3,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04351292923092842
+  },
+  {
+    "layer": 3,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04302452504634857
+  },
+  {
+    "layer": 3,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03726360946893692
+  },
+  {
+    "layer": 3,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04307444766163826
+  },
+  {
+    "layer": 3,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.05201122537255287
+  },
+  {
+    "layer": 4,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.027034537866711617
+  },
+  {
+    "layer": 4,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.02585844323039055
+  },
+  {
+    "layer": 4,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.013489432632923126
+  },
+  {
+    "layer": 4,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.013653773814439774
+  },
+  {
+    "layer": 4,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.013369666412472725
+  },
+  {
+    "layer": 4,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.0189963411539793
+  },
+  {
+    "layer": 4,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.010786700062453747
+  },
+  {
+    "layer": 4,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.01758445054292679
+  },
+  {
+    "layer": 5,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.0120728500187397
+  },
+  {
+    "layer": 5,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.041610684245824814
+  },
+  {
+    "layer": 5,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.0013370405649766326
+  },
+  {
+    "layer": 5,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.021063264459371567
+  },
+  {
+    "layer": 5,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.010892404243350029
+  },
+  {
+    "layer": 5,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.01768152229487896
+  },
+  {
+    "layer": 5,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.013528868556022644
+  },
+  {
+    "layer": 5,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.018872685730457306
+  },
+  {
+    "layer": 6,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.031188342720270157
+  },
+  {
+    "layer": 6,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03974281996488571
+  },
+  {
+    "layer": 6,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.029988111928105354
+  },
+  {
+    "layer": 6,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03889681398868561
+  },
+  {
+    "layer": 6,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.020298784598708153
+  },
+  {
+    "layer": 6,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.018144803121685982
+  },
+  {
+    "layer": 6,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.034531205892562866
+  },
+  {
+    "layer": 6,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04514801874756813
+  },
+  {
+    "layer": 7,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03573347255587578
+  },
+  {
+    "layer": 7,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.0148552181199193
+  },
+  {
+    "layer": 7,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.06508991122245789
+  },
+  {
+    "layer": 7,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.01948777586221695
+  },
+  {
+    "layer": 7,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.06913595646619797
+  },
+  {
+    "layer": 7,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.054426588118076324
+  },
+  {
+    "layer": 7,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.07187861949205399
+  },
+  {
+    "layer": 7,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.06775157153606415
+  },
+  {
+    "layer": 8,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.015490301884710789
+  },
+  {
+    "layer": 8,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.030282991006970406
+  },
+  {
+    "layer": 8,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.01651151105761528
+  },
+  {
+    "layer": 8,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.014988158829510212
+  },
+  {
+    "layer": 8,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.039891086518764496
+  },
+  {
+    "layer": 8,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04573478177189827
+  },
+  {
+    "layer": 8,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.017375733703374863
+  },
+  {
+    "layer": 8,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.018873946741223335
+  },
+  {
+    "layer": 9,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.05809758976101875
+  },
+  {
+    "layer": 9,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.07177623361349106
+  },
+  {
+    "layer": 9,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03902815654873848
+  },
+  {
+    "layer": 9,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04788905754685402
+  },
+  {
+    "layer": 9,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.05959751829504967
+  },
+  {
+    "layer": 9,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.039590444415807724
+  },
+  {
+    "layer": 9,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04367328807711601
+  },
+  {
+    "layer": 9,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03520076721906662
+  },
+  {
+    "layer": 10,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.00947637390345335
+  },
+  {
+    "layer": 10,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.01496176328510046
+  },
+  {
+    "layer": 10,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.011772090569138527
+  },
+  {
+    "layer": 10,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.01009252481162548
+  },
+  {
+    "layer": 10,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.01601964607834816
+  },
+  {
+    "layer": 10,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.01725161261856556
+  },
+  {
+    "layer": 10,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.029067402705550194
+  },
+  {
+    "layer": 10,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.01305856928229332
+  },
+  {
+    "layer": 11,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.01906416565179825
+  },
+  {
+    "layer": 11,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.02129960060119629
+  },
+  {
+    "layer": 11,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.05790828913450241
+  },
+  {
+    "layer": 11,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.027833864092826843
+  },
+  {
+    "layer": 11,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.024249209091067314
+  },
+  {
+    "layer": 11,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.021662680432200432
+  },
+  {
+    "layer": 11,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.025981660932302475
+  },
+  {
+    "layer": 11,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.018936248496174812
+  },
+  {
+    "layer": 12,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.017024189233779907
+  },
+  {
+    "layer": 12,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.021514929831027985
+  },
+  {
+    "layer": 12,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.02362818270921707
+  },
+  {
+    "layer": 12,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.027077876031398773
+  },
+  {
+    "layer": 12,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.019638409838080406
+  },
+  {
+    "layer": 12,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.05440622940659523
+  },
+  {
+    "layer": 12,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.028877442702651024
+  },
+  {
+    "layer": 12,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.05913200601935387
+  },
+  {
+    "layer": 13,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.050531283020973206
+  },
+  {
+    "layer": 13,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.050099100917577744
+  },
+  {
+    "layer": 13,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.060266874730587006
+  },
+  {
+    "layer": 13,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.012886219657957554
+  },
+  {
+    "layer": 13,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.05667392164468765
+  },
+  {
+    "layer": 13,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.05500279739499092
+  },
+  {
+    "layer": 13,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.061521776020526886
+  },
+  {
+    "layer": 13,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.0301243606954813
+  },
+  {
+    "layer": 14,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.01436662208288908
+  },
+  {
+    "layer": 14,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03465281054377556
+  },
+  {
+    "layer": 14,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.024788549169898033
+  },
+  {
+    "layer": 14,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04933279752731323
+  },
+  {
+    "layer": 14,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.026767682284116745
+  },
+  {
+    "layer": 14,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.016602715477347374
+  },
+  {
+    "layer": 14,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03016803227365017
+  },
+  {
+    "layer": 14,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.020435553044080734
+  },
+  {
+    "layer": 15,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.07687466591596603
+  },
+  {
+    "layer": 15,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.043007224798202515
+  },
+  {
+    "layer": 15,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.01901487074792385
+  },
+  {
+    "layer": 15,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03479408472776413
+  },
+  {
+    "layer": 15,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.05025921389460564
+  },
+  {
+    "layer": 15,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04443611577153206
+  },
+  {
+    "layer": 15,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.032342199236154556
+  },
+  {
+    "layer": 15,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.0747242197394371
+  },
+  {
+    "layer": 16,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.036095649003982544
+  },
+  {
+    "layer": 16,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04590969532728195
+  },
+  {
+    "layer": 16,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.028902558609843254
+  },
+  {
+    "layer": 16,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.027919206768274307
+  },
+  {
+    "layer": 16,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03942672163248062
+  },
+  {
+    "layer": 16,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.02493046410381794
+  },
+  {
+    "layer": 16,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.053541865199804306
+  },
+  {
+    "layer": 16,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.06277672946453094
+  },
+  {
+    "layer": 17,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03506080433726311
+  },
+  {
+    "layer": 17,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.028105521574616432
+  },
+  {
+    "layer": 17,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.029242221266031265
+  },
+  {
+    "layer": 17,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04721679911017418
+  },
+  {
+    "layer": 17,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03569202125072479
+  },
+  {
+    "layer": 17,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04412226378917694
+  },
+  {
+    "layer": 17,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.034738000482320786
+  },
+  {
+    "layer": 17,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.05227092653512955
+  },
+  {
+    "layer": 18,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.024860018864274025
+  },
+  {
+    "layer": 18,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.030261849984526634
+  },
+  {
+    "layer": 18,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.05969557911157608
+  },
+  {
+    "layer": 18,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03902934864163399
+  },
+  {
+    "layer": 18,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.028269581496715546
+  },
+  {
+    "layer": 18,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.05708586052060127
+  },
+  {
+    "layer": 18,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04217008128762245
+  },
+  {
+    "layer": 18,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04003925994038582
+  },
+  {
+    "layer": 19,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.044645171612501144
+  },
+  {
+    "layer": 19,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03562643378973007
+  },
+  {
+    "layer": 19,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04296683892607689
+  },
+  {
+    "layer": 19,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.028925474733114243
+  },
+  {
+    "layer": 19,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.027863308787345886
+  },
+  {
+    "layer": 19,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.019905656576156616
+  },
+  {
+    "layer": 19,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03081953153014183
+  },
+  {
+    "layer": 19,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03661185875535011
+  },
+  {
+    "layer": 20,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.05253748595714569
+  },
+  {
+    "layer": 20,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.036008063703775406
+  },
+  {
+    "layer": 20,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03784845024347305
+  },
+  {
+    "layer": 20,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.02747047320008278
+  },
+  {
+    "layer": 20,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.02572290413081646
+  },
+  {
+    "layer": 20,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.023907726630568504
+  },
+  {
+    "layer": 20,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.01818944327533245
+  },
+  {
+    "layer": 20,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.02366546541452408
+  },
+  {
+    "layer": 21,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.01966601423919201
+  },
+  {
+    "layer": 21,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04221150651574135
+  },
+  {
+    "layer": 21,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.02692488208413124
+  },
+  {
+    "layer": 21,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.026890112087130547
+  },
+  {
+    "layer": 21,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.02658352069556713
+  },
+  {
+    "layer": 21,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.0210963636636734
+  },
+  {
+    "layer": 21,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.032594356685876846
+  },
+  {
+    "layer": 21,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03295522928237915
+  },
+  {
+    "layer": 22,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.023152129724621773
+  },
+  {
+    "layer": 22,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.026962464675307274
+  },
+  {
+    "layer": 22,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.01996399089694023
+  },
+  {
+    "layer": 22,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.02226666919887066
+  },
+  {
+    "layer": 22,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.023962201550602913
+  },
+  {
+    "layer": 22,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.009871924296021461
+  },
+  {
+    "layer": 22,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.019721755757927895
+  },
+  {
+    "layer": 22,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03126925602555275
+  },
+  {
+    "layer": 23,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.012722978368401527
+  },
+  {
+    "layer": 23,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.025674380362033844
+  },
+  {
+    "layer": 23,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.024230357259511948
+  },
+  {
+    "layer": 23,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.027469417080283165
+  },
+  {
+    "layer": 23,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.02146456204354763
+  },
+  {
+    "layer": 23,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.027354339137673378
+  },
+  {
+    "layer": 23,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.014394393190741539
+  },
+  {
+    "layer": 23,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.0266779325902462
+  },
+  {
+    "layer": 24,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.047721393406391144
+  },
+  {
+    "layer": 24,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03726736828684807
+  },
+  {
+    "layer": 24,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03970072790980339
+  },
+  {
+    "layer": 24,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.02725585177540779
+  },
+  {
+    "layer": 24,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.038801878690719604
+  },
+  {
+    "layer": 24,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.011753938160836697
+  },
+  {
+    "layer": 24,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03347894176840782
+  },
+  {
+    "layer": 24,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.018144968897104263
+  },
+  {
+    "layer": 25,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.046565812081098557
+  },
+  {
+    "layer": 25,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.030217504128813744
+  },
+  {
+    "layer": 25,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.041095901280641556
+  },
+  {
+    "layer": 25,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.02668105997145176
+  },
+  {
+    "layer": 25,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03730173036456108
+  },
+  {
+    "layer": 25,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03846651688218117
+  },
+  {
+    "layer": 25,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04293467104434967
+  },
+  {
+    "layer": 25,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.026392441242933273
+  },
+  {
+    "layer": 26,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.033991582691669464
+  },
+  {
+    "layer": 26,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.046168841421604156
+  },
+  {
+    "layer": 26,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.031627584248781204
+  },
+  {
+    "layer": 26,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.047340698540210724
+  },
+  {
+    "layer": 26,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04440803825855255
+  },
+  {
+    "layer": 26,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.05429874733090401
+  },
+  {
+    "layer": 26,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.041501209139823914
+  },
+  {
+    "layer": 26,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.05012570321559906
+  },
+  {
+    "layer": 27,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.02836512215435505
+  },
+  {
+    "layer": 27,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04655874893069267
+  },
+  {
+    "layer": 27,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.041173599660396576
+  },
+  {
+    "layer": 27,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.0412292517721653
+  },
+  {
+    "layer": 27,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.028677767142653465
+  },
+  {
+    "layer": 27,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03962516039609909
+  },
+  {
+    "layer": 27,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04280219227075577
+  },
+  {
+    "layer": 27,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.044810786843299866
+  },
+  {
+    "layer": 28,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03635565936565399
+  },
+  {
+    "layer": 28,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03428778052330017
+  },
+  {
+    "layer": 28,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.056783922016620636
+  },
+  {
+    "layer": 28,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.05334655940532684
+  },
+  {
+    "layer": 28,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04377518594264984
+  },
+  {
+    "layer": 28,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03389715030789375
+  },
+  {
+    "layer": 28,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03041311725974083
+  },
+  {
+    "layer": 28,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.014686213806271553
+  },
+  {
+    "layer": 29,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.022762369364500046
+  },
+  {
+    "layer": 29,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.023417461663484573
+  },
+  {
+    "layer": 29,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.022038867697119713
+  },
+  {
+    "layer": 29,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.006901622284203768
+  },
+  {
+    "layer": 29,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04034474119544029
+  },
+  {
+    "layer": 29,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.040715575218200684
+  },
+  {
+    "layer": 29,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.037383273243904114
+  },
+  {
+    "layer": 29,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03116440214216709
+  },
+  {
+    "layer": 30,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.020747460424900055
+  },
+  {
+    "layer": 30,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.026793399825692177
+  },
+  {
+    "layer": 30,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03743860870599747
+  },
+  {
+    "layer": 30,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.02426711842417717
+  },
+  {
+    "layer": 30,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03710005432367325
+  },
+  {
+    "layer": 30,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.030469167977571487
+  },
+  {
+    "layer": 30,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.030839286744594574
+  },
+  {
+    "layer": 30,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.019407028332352638
+  },
+  {
+    "layer": 31,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04852404072880745
+  },
+  {
+    "layer": 31,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.02649136260151863
+  },
+  {
+    "layer": 31,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03335088863968849
+  },
+  {
+    "layer": 31,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.02771029621362686
+  },
+  {
+    "layer": 31,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.02552190236747265
+  },
+  {
+    "layer": 31,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04313039779663086
+  },
+  {
+    "layer": 31,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03402598202228546
+  },
+  {
+    "layer": 31,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.021981332451105118
+  },
+  {
+    "layer": 32,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.036044567823410034
+  },
+  {
+    "layer": 32,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03157683461904526
+  },
+  {
+    "layer": 32,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.029295962303876877
+  },
+  {
+    "layer": 32,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.024648811668157578
+  },
+  {
+    "layer": 32,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04284779727458954
+  },
+  {
+    "layer": 32,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03927842155098915
+  },
+  {
+    "layer": 32,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.013640989549458027
+  },
+  {
+    "layer": 32,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.013981741853058338
+  },
+  {
+    "layer": 33,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.054785095155239105
+  },
+  {
+    "layer": 33,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04469860717654228
+  },
+  {
+    "layer": 33,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.026986582204699516
+  },
+  {
+    "layer": 33,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.021221956238150597
+  },
+  {
+    "layer": 33,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.029697749763727188
+  },
+  {
+    "layer": 33,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03923311084508896
+  },
+  {
+    "layer": 33,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03450865298509598
+  },
+  {
+    "layer": 33,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.0227795597165823
+  },
+  {
+    "layer": 34,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.02861863560974598
+  },
+  {
+    "layer": 34,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.030638180673122406
+  },
+  {
+    "layer": 34,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.04216102138161659
+  },
+  {
+    "layer": 34,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.00668980972841382
+  },
+  {
+    "layer": 34,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.02620409056544304
+  },
+  {
+    "layer": 34,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.014971667900681496
+  },
+  {
+    "layer": 34,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.03315524756908417
+  },
+  {
+    "layer": 34,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.025980906561017036
+  },
+  {
+    "layer": 35,
+    "head": 0,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.007886994630098343
+  },
+  {
+    "layer": 35,
+    "head": 1,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.006662340834736824
+  },
+  {
+    "layer": 35,
+    "head": 2,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.015876464545726776
+  },
+  {
+    "layer": 35,
+    "head": 3,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.011015700176358223
+  },
+  {
+    "layer": 35,
+    "head": 4,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.00917523168027401
+  },
+  {
+    "layer": 35,
+    "head": 5,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.012133756652474403
+  },
+  {
+    "layer": 35,
+    "head": 6,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.011706529185175896
+  },
+  {
+    "layer": 35,
+    "head": 7,
+    "shape": [
+      4096,
+      128
+    ],
+    "rank": 80,
+    "discarded_energy": 0.016562113538384438
+  }
+]

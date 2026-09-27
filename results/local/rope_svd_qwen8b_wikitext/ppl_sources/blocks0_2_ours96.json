@@ -1,0 +1,106 @@
+{
+  "methods": {
+    "ours96": [
+      {
+        "method": "ours96",
+        "block_id": 0,
+        "start_token": 0,
+        "end_token": 4096,
+        "num_pred_tokens": 4095,
+        "nll": 7553.15771484375,
+        "ppl": 6.3248287455698975,
+        "storage_ratio": 2.8333333333333335,
+        "elapsed_seconds": 600.8559262119234,
+        "attention_error": {
+          "k_relative_error": 0.09939515629794186,
+          "score_relative_error": 0.073593129657505,
+          "score_relative_error_max": 0.3826957046985626,
+          "attention_kl": 0.013382051731212156,
+          "attention_mae": 0.00010139263679432057,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      },
+      {
+        "method": "ours96",
+        "block_id": 1,
+        "start_token": 4096,
+        "end_token": 8192,
+        "num_pred_tokens": 4095,
+        "nll": 8692.1220703125,
+        "ppl": 8.352979755817987,
+        "storage_ratio": 2.8333333333333335,
+        "elapsed_seconds": 606.4557553492486,
+        "attention_error": {
+          "k_relative_error": 0.09847366922822402,
+          "score_relative_error": 0.07543064926021759,
+          "score_relative_error_max": 0.34179437160491943,
+          "attention_kl": 0.014127911217106404,
+          "attention_mae": 0.00010984468286505765,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      },
+      {
+        "method": "ours96",
+        "block_id": 2,
+        "start_token": 8192,
+        "end_token": 12288,
+        "num_pred_tokens": 4095,
+        "nll": 9010.6982421875,
+        "ppl": 9.028757049415816,
+        "storage_ratio": 2.8333333333333335,
+        "elapsed_seconds": 601.4568532444537,
+        "attention_error": {
+          "k_relative_error": 0.0986145854667484,
+          "score_relative_error": 0.07479564483895326,
+          "score_relative_error_max": 0.3002529740333557,
+          "attention_kl": 0.013796685724889365,
+          "attention_mae": 0.000107114084858963,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      }
+    ]
+  },
+  "coefficient_regression": {
+    "max_coefficient_error": 0.00018310546875,
+    "max_A_row_nnz": 1,
+    "coefficient_tolerance": 0.0005,
+    "score_tolerance": 0.0001,
+    "max_explicit_direct_score_error": 3.0517578125e-05,
+    "passed": true,
+    "pages": 4,
+    "kv_heads": 8,
+    "m_values": [
+      64,
+      80,
+      96
+    ]
+  },
+  "model_structure": {
+    "model_type": "qwen3",
+    "hidden_size": 2560,
+    "num_hidden_layers": 36,
+    "num_attention_heads": 32,
+    "num_key_value_heads": 8,
+    "head_dim": 128,
+    "gqa_ratio": 4,
+    "attention_module_class": "Qwen3Attention",
+    "q_proj_shape": [
+      4096,
+      2560
+    ],
+    "k_proj_shape": [
+      1024,
+      2560
+    ],
+    "v_proj_shape": [
+      1024,
+      2560
+    ],
+    "q_norm_class": "Qwen3RMSNorm",
+    "k_norm_class": "Qwen3RMSNorm",
+    "rope_class": "Qwen3RotaryEmbedding"
+  }
+}

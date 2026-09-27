@@ -1,0 +1,39 @@
+[
+  {
+    "prefill_total_ms": 389.8644714355469,
+    "decode_total_ms": 73933.96875,
+    "nll": 3977.6826171875,
+    "ppl": 6.226532483300182,
+    "prompt_compression_ms": 0.0,
+    "peak_allocated": 8469924352,
+    "peak_reserved": 8625586176,
+    "method": "Full",
+    "repeat": 0,
+    "decode_ms_per_token": 36.10057067871094,
+    "tokens_per_sec": 27.70039312951126,
+    "tokens": 2176,
+    "num_prediction_tokens": 2175,
+    "mode": "quality"
+  },
+  {
+    "prefill_total_ms": 2338.711669921875,
+    "decode_total_ms": 58452.28515625,
+    "nll": 3965.221923828125,
+    "ppl": 6.190962328833006,
+    "prompt_compression_ms": null,
+    "layer_page_seals": 2448,
+    "kv_head_page_compressions": 19584,
+    "reconstruct_native_calls": 0,
+    "kv_reconstruct_calls": 0,
+    "kv_reconstruct_pages": 0,
+    "peak_allocated": 9025869312,
+    "peak_reserved": 9086959616,
+    "method": "Ours-Direct-Fused m80",
+    "repeat": 0,
+    "decode_ms_per_token": 28.541154861450195,
+    "tokens_per_sec": 35.037124631234676,
+    "tokens": 2176,
+    "num_prediction_tokens": 2175,
+    "mode": "quality"
+  }
+]

@@ -1,0 +1,37 @@
+def generate_ours(runner, tokenizer, prompt: str, max_new: int, device: str) -> tuple[str, float, float, int]:
+    ids = tokenizer(prompt, return_tensors="pt").input_ids[0]
+    total = int(ids.numel() + max_new + 2)
+    if total > runner.max_tokens:
+        raise ValueError(f"runner capacity {runner.max_tokens} is smaller than sample length {total}")
+    runner.reset_runtime()
+    # The runner seals complete pages after native prefill. Feed any prompt
+    # tail token-by-token so arbitrary RULER prompt lengths remain valid.
+    first = (ids.numel() // runner.page) * runner.page
+    if first == 0:
+        raise ValueError("RULER prompt is shorter than one compression page")
+    # Reserve only the actual prompt plus generation horizon, rounded to a
+    # page.  The prefill itself still compresses only the complete prompt
+    # pages; the extra capacity is for the decode tail and future page seals.
+    capacity = ((ids.numel() + max_new + runner.page - 1) // runner.page) * runner.page
+    runner.prepare_capacity(capacity)
+    positions = torch.arange(total, device=device, dtype=torch.long)
+    start = time.perf_counter()
+    out = runner.prefill(ids[:first].to(device), positions[:first])
+    runner.seal_prefill()
+    logits = out.logits[:, -1]
+    for pos in range(first, ids.numel()):
+        logits = runner.run_token(ids[pos], pos)[:, -1]
+    if device.startswith("cuda"):
+        torch.cuda.synchronize()
+    setup_s = time.perf_counter() - start
+    token = logits.argmax(-1)
+    decode_start = time.perf_counter()
+    generated: list[int] = []
+    for pos in range(ids.numel(), ids.numel() + max_new):
+        generated.append(int(token.item()))
+        logits = runner.run_token(token, pos)[:, -1]
+        token = logits.argmax(-1)
+    if device.startswith("cuda"):
+        torch.cuda.synchronize()
+    elapsed = time.perf_counter() - decode_start
+    return tokenizer.decode(generated, skip_special_tokens=True), setup_s, elapsed, int(ids.numel())

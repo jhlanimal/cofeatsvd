@@ -1,0 +1,35 @@
+[
+  {
+    "prefill_total_ms": 404.88037109375,
+    "decode_total_ms": 168.8144073486328,
+    "nll": 274.53955078125,
+    "ppl": 8.131307719153225,
+    "prompt_compression_ms": 0.0,
+    "method": "Full",
+    "repeat": 0,
+    "decode_ms_per_token": 42.2036018371582,
+    "tokens_per_sec": 23.694660087508193,
+    "tokens": 132,
+    "mode": "quality"
+  },
+  {
+    "prefill_total_ms": 1193.060302734375,
+    "decode_total_ms": 1306.9178466796875,
+    "nll": 294.5268859863281,
+    "ppl": 9.471590453295695,
+    "prompt_compression_ms": null,
+    "layer_page_seals": 0,
+    "kv_head_page_compressions": 1152,
+    "reconstruct_native_calls": 0,
+    "kv_reconstruct_calls": 0,
+    "kv_reconstruct_pages": 0,
+    "peak_allocated": 9025444352,
+    "peak_reserved": 9082765312,
+    "method": "Ours m80",
+    "repeat": 0,
+    "decode_ms_per_token": 326.7294616699219,
+    "tokens_per_sec": 3.060636144928519,
+    "tokens": 132,
+    "mode": "quality"
+  }
+]

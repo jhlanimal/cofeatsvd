@@ -1,0 +1,448 @@
+{
+  "methods": {
+    "ours96": [
+      {
+        "method": "ours96",
+        "block_id": 3,
+        "start_token": 12288,
+        "end_token": 16384,
+        "num_pred_tokens": 4095,
+        "nll": 7338.29638671875,
+        "ppl": 6.00152599655716,
+        "storage_ratio": 2.8333333333333335,
+        "elapsed_seconds": 592.7702200524509,
+        "attention_error": {
+          "k_relative_error": 0.09738349775070673,
+          "score_relative_error": 0.0727482608566244,
+          "score_relative_error_max": 0.3099015951156616,
+          "attention_kl": 0.012704188442470817,
+          "attention_mae": 0.0001066562160477258,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      },
+      {
+        "method": "ours96",
+        "block_id": 4,
+        "start_token": 16384,
+        "end_token": 20480,
+        "num_pred_tokens": 4095,
+        "nll": 9575.66015625,
+        "ppl": 10.364417530803498,
+        "storage_ratio": 2.8333333333333335,
+        "elapsed_seconds": 600.5116759762168,
+        "attention_error": {
+          "k_relative_error": 0.09841987986364983,
+          "score_relative_error": 0.07571779037697432,
+          "score_relative_error_max": 0.289320707321167,
+          "attention_kl": 0.013872630285373999,
+          "attention_mae": 0.00010712287831017674,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      },
+      {
+        "method": "ours96",
+        "block_id": 5,
+        "start_token": 20480,
+        "end_token": 24576,
+        "num_pred_tokens": 4095,
+        "nll": 9382.833984375,
+        "ppl": 9.887688034164608,
+        "storage_ratio": 2.8333333333333335,
+        "elapsed_seconds": 594.212451890111,
+        "attention_error": {
+          "k_relative_error": 0.10027518707447598,
+          "score_relative_error": 0.07557451899580962,
+          "score_relative_error_max": 0.308354914188385,
+          "attention_kl": 0.013530170431436018,
+          "attention_mae": 0.00010709504680076117,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      },
+      {
+        "method": "ours96",
+        "block_id": 6,
+        "start_token": 24576,
+        "end_token": 28672,
+        "num_pred_tokens": 4095,
+        "nll": 11382.2578125,
+        "ppl": 16.11177123356226,
+        "storage_ratio": 2.8333333333333335,
+        "elapsed_seconds": 594.2098359130323,
+        "attention_error": {
+          "k_relative_error": 0.09957487682167994,
+          "score_relative_error": 0.07625954664377844,
+          "score_relative_error_max": 0.3150502145290375,
+          "attention_kl": 0.013895895773830543,
+          "attention_mae": 0.00010259409552335863,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      },
+      {
+        "method": "ours96",
+        "block_id": 7,
+        "start_token": 28672,
+        "end_token": 32768,
+        "num_pred_tokens": 4095,
+        "nll": 8318.0380859375,
+        "ppl": 7.623739000647001,
+        "storage_ratio": 2.8333333333333335,
+        "elapsed_seconds": 594.9891389869153,
+        "attention_error": {
+          "k_relative_error": 0.09825374904485215,
+          "score_relative_error": 0.07591723667805571,
+          "score_relative_error_max": 0.32702478766441345,
+          "attention_kl": 0.013761690901863915,
+          "attention_mae": 0.00010480717331922514,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      },
+      {
+        "method": "ours96",
+        "block_id": 8,
+        "start_token": 32768,
+        "end_token": 36864,
+        "num_pred_tokens": 4095,
+        "nll": 8865.001953125,
+        "ppl": 8.713169718168608,
+        "storage_ratio": 2.8333333333333335,
+        "elapsed_seconds": 594.3500968068838,
+        "attention_error": {
+          "k_relative_error": 0.1000780878464866,
+          "score_relative_error": 0.07461571816877942,
+          "score_relative_error_max": 0.33579081296920776,
+          "attention_kl": 0.013926486392295922,
+          "attention_mae": 0.00010666522829146308,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      },
+      {
+        "method": "ours96",
+        "block_id": 9,
+        "start_token": 36864,
+        "end_token": 40960,
+        "num_pred_tokens": 4095,
+        "nll": 9852.54296875,
+        "ppl": 11.089441051468889,
+        "storage_ratio": 2.8333333333333335,
+        "elapsed_seconds": 594.9870934784412,
+        "attention_error": {
+          "k_relative_error": 0.09960477329077548,
+          "score_relative_error": 0.07573874233096681,
+          "score_relative_error_max": 0.31682467460632324,
+          "attention_kl": 0.01403565995313389,
+          "attention_mae": 0.00010939211910542896,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      },
+      {
+        "method": "ours96",
+        "block_id": 10,
+        "start_token": 40960,
+        "end_token": 45056,
+        "num_pred_tokens": 4095,
+        "nll": 9692.279296875,
+        "ppl": 10.663822854061959,
+        "storage_ratio": 2.8333333333333335,
+        "elapsed_seconds": 595.4104345962405,
+        "attention_error": {
+          "k_relative_error": 0.0992698389056386,
+          "score_relative_error": 0.07667420651813177,
+          "score_relative_error_max": 0.33188310265541077,
+          "attention_kl": 0.01424995547916889,
+          "attention_mae": 0.00010606023349215372,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      },
+      {
+        "method": "ours96",
+        "block_id": 11,
+        "start_token": 45056,
+        "end_token": 49152,
+        "num_pred_tokens": 4095,
+        "nll": 8135.74560546875,
+        "ppl": 7.291804626530878,
+        "storage_ratio": 2.8333333333333335,
+        "elapsed_seconds": 594.8848362863064,
+        "attention_error": {
+          "k_relative_error": 0.09782314994718036,
+          "score_relative_error": 0.07383174792738305,
+          "score_relative_error_max": 0.31131067872047424,
+          "attention_kl": 0.014029541866468,
+          "attention_mae": 0.00010317416271788276,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      },
+      {
+        "method": "ours96",
+        "block_id": 12,
+        "start_token": 49152,
+        "end_token": 53248,
+        "num_pred_tokens": 4095,
+        "nll": 8044.86083984375,
+        "ppl": 7.131752392997061,
+        "storage_ratio": 2.8333333333333335,
+        "elapsed_seconds": 594.371316768229,
+        "attention_error": {
+          "k_relative_error": 0.09851580569593352,
+          "score_relative_error": 0.07391936656994669,
+          "score_relative_error_max": 0.305532842874527,
+          "attention_kl": 0.013354634334351292,
+          "attention_mae": 0.00010282202609645636,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      }
+    ],
+    "puzzle20": [
+      {
+        "method": "puzzle20",
+        "block_id": 3,
+        "start_token": 12288,
+        "end_token": 16384,
+        "num_pred_tokens": 4095,
+        "nll": 7448.134765625,
+        "ppl": 6.164680611865011,
+        "storage_ratio": 0.8541666666666666,
+        "elapsed_seconds": 585.8487481996417,
+        "attention_error": {
+          "k_relative_error": 0.09284976958620064,
+          "score_relative_error": 0.09453006961197762,
+          "score_relative_error_max": 0.638261616230011,
+          "attention_kl": 0.07687391204563744,
+          "attention_mae": 0.00020578405409306304,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      },
+      {
+        "method": "puzzle20",
+        "block_id": 4,
+        "start_token": 16384,
+        "end_token": 20480,
+        "num_pred_tokens": 4095,
+        "nll": 9720.921875,
+        "ppl": 10.738672689400719,
+        "storage_ratio": 0.8541666666666666,
+        "elapsed_seconds": 588.1116829141974,
+        "attention_error": {
+          "k_relative_error": 0.09508845199547977,
+          "score_relative_error": 0.10017736628037459,
+          "score_relative_error_max": 0.6797137260437012,
+          "attention_kl": 0.07497529052024628,
+          "attention_mae": 0.00020182500044943857,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      },
+      {
+        "method": "puzzle20",
+        "block_id": 5,
+        "start_token": 20480,
+        "end_token": 24576,
+        "num_pred_tokens": 4095,
+        "nll": 9492.859375,
+        "ppl": 10.156953832235525,
+        "storage_ratio": 0.8541666666666666,
+        "elapsed_seconds": 588.5881379507482,
+        "attention_error": {
+          "k_relative_error": 0.09544355731131873,
+          "score_relative_error": 0.09861002004225042,
+          "score_relative_error_max": 0.7015356421470642,
+          "attention_kl": 0.07681886038833795,
+          "attention_mae": 0.00020070739504988509,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      },
+      {
+        "method": "puzzle20",
+        "block_id": 6,
+        "start_token": 24576,
+        "end_token": 28672,
+        "num_pred_tokens": 4095,
+        "nll": 11476.8603515625,
+        "ppl": 16.488317511079977,
+        "storage_ratio": 0.8541666666666666,
+        "elapsed_seconds": 588.5227379240096,
+        "attention_error": {
+          "k_relative_error": 0.09710201621219312,
+          "score_relative_error": 0.10124823190821848,
+          "score_relative_error_max": 0.5883898735046387,
+          "attention_kl": 0.08168193220635658,
+          "attention_mae": 0.00020685207804301017,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      },
+      {
+        "method": "puzzle20",
+        "block_id": 7,
+        "start_token": 28672,
+        "end_token": 32768,
+        "num_pred_tokens": 4095,
+        "nll": 8419.416015625,
+        "ppl": 7.814831847748474,
+        "storage_ratio": 0.8541666666666666,
+        "elapsed_seconds": 588.4148141816258,
+        "attention_error": {
+          "k_relative_error": 0.0960650602460646,
+          "score_relative_error": 0.10136844949864629,
+          "score_relative_error_max": 0.6286876797676086,
+          "attention_kl": 0.07111870810879299,
+          "attention_mae": 0.00020498823045790587,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      },
+      {
+        "method": "puzzle20",
+        "block_id": 8,
+        "start_token": 32768,
+        "end_token": 36864,
+        "num_pred_tokens": 4095,
+        "nll": 8936.423828125,
+        "ppl": 8.866471194159137,
+        "storage_ratio": 0.8541666666666666,
+        "elapsed_seconds": 588.6541110649705,
+        "attention_error": {
+          "k_relative_error": 0.09750388093789297,
+          "score_relative_error": 0.10018281113268353,
+          "score_relative_error_max": 0.6911225914955139,
+          "attention_kl": 0.08061487448361387,
+          "attention_mae": 0.00021661771087875013,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      },
+      {
+        "method": "puzzle20",
+        "block_id": 9,
+        "start_token": 36864,
+        "end_token": 40960,
+        "num_pred_tokens": 4095,
+        "nll": 9944.818359375,
+        "ppl": 11.342163578845062,
+        "storage_ratio": 0.8541666666666666,
+        "elapsed_seconds": 588.2729285098612,
+        "attention_error": {
+          "k_relative_error": 0.09712894930612492,
+          "score_relative_error": 0.10123282645821689,
+          "score_relative_error_max": 0.7317423224449158,
+          "attention_kl": 0.08755419886091387,
+          "attention_mae": 0.00021616865771779376,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      },
+      {
+        "method": "puzzle20",
+        "block_id": 10,
+        "start_token": 40960,
+        "end_token": 45056,
+        "num_pred_tokens": 4095,
+        "nll": 9818.21484375,
+        "ppl": 10.996867532315036,
+        "storage_ratio": 0.8541666666666666,
+        "elapsed_seconds": 587.7313546836376,
+        "attention_error": {
+          "k_relative_error": 0.09843697105252432,
+          "score_relative_error": 0.10281158695666588,
+          "score_relative_error_max": 0.6556519865989685,
+          "attention_kl": 0.07302225252603285,
+          "attention_mae": 0.00020935962932108488,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      },
+      {
+        "method": "puzzle20",
+        "block_id": 11,
+        "start_token": 45056,
+        "end_token": 49152,
+        "num_pred_tokens": 4095,
+        "nll": 8199.7119140625,
+        "ppl": 7.406601164191244,
+        "storage_ratio": 0.8541666666666666,
+        "elapsed_seconds": 588.7647960819304,
+        "attention_error": {
+          "k_relative_error": 0.09540129091003564,
+          "score_relative_error": 0.0965893094306885,
+          "score_relative_error_max": 0.7484110593795776,
+          "attention_kl": 0.07723901838562812,
+          "attention_mae": 0.00019566490953964354,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      },
+      {
+        "method": "puzzle20",
+        "block_id": 12,
+        "start_token": 49152,
+        "end_token": 53248,
+        "num_pred_tokens": 4095,
+        "nll": 8132.43359375,
+        "ppl": 7.285909442501905,
+        "storage_ratio": 0.8541666666666666,
+        "elapsed_seconds": 588.1951447539032,
+        "attention_error": {
+          "k_relative_error": 0.09502876684432522,
+          "score_relative_error": 0.09672603561069934,
+          "score_relative_error_max": 0.6554075479507446,
+          "attention_kl": 0.07037002896082613,
+          "attention_mae": 0.00020136329197140233,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      }
+    ]
+  },
+  "coefficient_regression": {
+    "max_coefficient_error": 0.00018310546875,
+    "max_A_row_nnz": 1,
+    "coefficient_tolerance": 0.0005,
+    "score_tolerance": 0.0001,
+    "max_explicit_direct_score_error": 3.0517578125e-05,
+    "passed": true,
+    "pages": 4,
+    "kv_heads": 8,
+    "m_values": [
+      64,
+      80,
+      96
+    ]
+  },
+  "model_structure": {
+    "model_type": "qwen3",
+    "hidden_size": 2560,
+    "num_hidden_layers": 36,
+    "num_attention_heads": 32,
+    "num_key_value_heads": 8,
+    "head_dim": 128,
+    "gqa_ratio": 4,
+    "attention_module_class": "Qwen3Attention",
+    "q_proj_shape": [
+      4096,
+      2560
+    ],
+    "k_proj_shape": [
+      1024,
+      2560
+    ],
+    "v_proj_shape": [
+      1024,
+      2560
+    ],
+    "q_norm_class": "Qwen3RMSNorm",
+    "k_norm_class": "Qwen3RMSNorm",
+    "rope_class": "Qwen3RotaryEmbedding"
+  }
+}

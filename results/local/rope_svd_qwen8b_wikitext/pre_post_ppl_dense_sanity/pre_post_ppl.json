@@ -1,0 +1,35 @@
+{
+  "model_path": "/mnt/data_sda1/share/Qwen3-8B",
+  "transformers": "4.57.6",
+  "num_blocks": 1,
+  "seq_len": 4096,
+  "page_size": 128,
+  "results": {
+    "full": {
+      "rows": [
+        {
+          "method": "full",
+          "block_id": 0,
+          "ppl": 6.200908557457906,
+          "nll": 7472.12939453125,
+          "tokens": 4095,
+          "seconds": 22.503840371966362
+        }
+      ],
+      "aggregate_ppl": 6.200908557457906
+    },
+    "post128": {
+      "rows": [
+        {
+          "method": "post128",
+          "block_id": 0,
+          "ppl": 6.208616271529199,
+          "nll": 7477.21630859375,
+          "tokens": 4095,
+          "seconds": 46.01376821473241
+        }
+      ],
+      "aggregate_ppl": 6.208616271529199
+    }
+  }
+}

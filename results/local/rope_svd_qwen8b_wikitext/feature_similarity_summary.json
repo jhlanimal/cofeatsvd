@@ -1,0 +1,12 @@
+{
+  "metric": "absolute Pearson correlation",
+  "middle_layer": 18,
+  "num_matrices": 2048,
+  "mean_off_diagonal": 0.12917543947696686,
+  "median_off_diagonal": 0.1339985728263855,
+  "max_similarity_mean": 0.20657001435756683,
+  "max_similarity_median": 0.192962184548378,
+  "max_similarity_p25": 0.1654023863375187,
+  "max_similarity_p75": 0.2366098389029503,
+  "max_similarity_p90": 0.32568271458148956
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "prefill_total_ms": 2608.5498046875,
+    "decode_total_ms": 12894.05078125,
+    "nll": 4347.220703125,
+    "ppl": 85003.32905557986,
+    "prompt_compression_ms": null,
+    "layer_page_seals": 336,
+    "kv_head_page_compressions": 2688,
+    "reconstruct_native_calls": 0,
+    "kv_reconstruct_calls": 0,
+    "kv_reconstruct_pages": 0,
+    "peak_allocated": 1906186752,
+    "peak_reserved": 1944059904,
+    "method": "Ours-Direct-Fused m80",
+    "repeat": 0,
+    "decode_ms_per_token": 50.36738586425781,
+    "tokens_per_sec": 19.85411755724312,
+    "tokens": 384,
+    "num_prediction_tokens": 383,
+    "mode": "quality"
+  }
+]

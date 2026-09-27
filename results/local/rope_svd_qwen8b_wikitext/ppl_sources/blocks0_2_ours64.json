@@ -1,0 +1,106 @@
+{
+  "methods": {
+    "ours64": [
+      {
+        "method": "ours64",
+        "block_id": 0,
+        "start_token": 0,
+        "end_token": 4096,
+        "num_pred_tokens": 4095,
+        "nll": 7597.73681640625,
+        "ppl": 6.394058411361846,
+        "storage_ratio": 2.0,
+        "elapsed_seconds": 713.7827839963138,
+        "attention_error": {
+          "k_relative_error": 0.16955931519987644,
+          "score_relative_error": 0.12997781804613365,
+          "score_relative_error_max": 0.5785539150238037,
+          "attention_kl": 0.04458220129797664,
+          "attention_mae": 0.00019181331706540848,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      },
+      {
+        "method": "ours64",
+        "block_id": 1,
+        "start_token": 4096,
+        "end_token": 8192,
+        "num_pred_tokens": 4095,
+        "nll": 8723.1884765625,
+        "ppl": 8.416589983843828,
+        "storage_ratio": 2.0,
+        "elapsed_seconds": 738.2521421574056,
+        "attention_error": {
+          "k_relative_error": 0.16817725168330072,
+          "score_relative_error": 0.1327259388054248,
+          "score_relative_error_max": 0.49065709114074707,
+          "attention_kl": 0.0459112227715403,
+          "attention_mae": 0.0002007984793809729,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      },
+      {
+        "method": "ours64",
+        "block_id": 2,
+        "start_token": 8192,
+        "end_token": 12288,
+        "num_pred_tokens": 4095,
+        "nll": 9046.8662109375,
+        "ppl": 9.10885427716173,
+        "storage_ratio": 2.0,
+        "elapsed_seconds": 571.661562487483,
+        "attention_error": {
+          "k_relative_error": 0.16814097281694557,
+          "score_relative_error": 0.13139125631863663,
+          "score_relative_error_max": 0.5188868045806885,
+          "attention_kl": 0.04535141636921453,
+          "attention_mae": 0.00019554006194666512,
+          "k_samples": 5120,
+          "score_samples": 650240
+        }
+      }
+    ]
+  },
+  "coefficient_regression": {
+    "max_coefficient_error": 0.00018310546875,
+    "max_A_row_nnz": 1,
+    "coefficient_tolerance": 0.0005,
+    "score_tolerance": 0.0001,
+    "max_explicit_direct_score_error": 3.0517578125e-05,
+    "passed": true,
+    "pages": 4,
+    "kv_heads": 8,
+    "m_values": [
+      64,
+      80,
+      96
+    ]
+  },
+  "model_structure": {
+    "model_type": "qwen3",
+    "hidden_size": 2560,
+    "num_hidden_layers": 36,
+    "num_attention_heads": 32,
+    "num_key_value_heads": 8,
+    "head_dim": 128,
+    "gqa_ratio": 4,
+    "attention_module_class": "Qwen3Attention",
+    "q_proj_shape": [
+      4096,
+      2560
+    ],
+    "k_proj_shape": [
+      1024,
+      2560
+    ],
+    "v_proj_shape": [
+      1024,
+      2560
+    ],
+    "q_norm_class": "Qwen3RMSNorm",
+    "k_norm_class": "Qwen3RMSNorm",
+    "rope_class": "Qwen3RotaryEmbedding"
+  }
+}

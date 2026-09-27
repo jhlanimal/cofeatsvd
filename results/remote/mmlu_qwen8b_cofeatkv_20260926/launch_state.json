@@ -1,0 +1,122 @@
+{
+  "started_at": "2026-09-26 18:28:01",
+  "model": "/data/share/Qwen3-8B",
+  "completed": [
+    {
+      "gpu": 2,
+      "m": 64,
+      "shard": 2,
+      "returncode": 0,
+      "log": "/home/jhl/model_inference/llm_infer/mmlu_qwen8b_cofeatkv_20260926/logs/m64_shard2.log"
+    },
+    {
+      "gpu": 4,
+      "m": 80,
+      "shard": 0,
+      "returncode": 0,
+      "log": "/home/jhl/model_inference/llm_infer/mmlu_qwen8b_cofeatkv_20260926/logs/m80_shard0.log"
+    },
+    {
+      "gpu": 1,
+      "m": 64,
+      "shard": 1,
+      "returncode": 0,
+      "log": "/home/jhl/model_inference/llm_infer/mmlu_qwen8b_cofeatkv_20260926/logs/m64_shard1.log"
+    },
+    {
+      "gpu": 7,
+      "m": 80,
+      "shard": 3,
+      "returncode": 0,
+      "log": "/home/jhl/model_inference/llm_infer/mmlu_qwen8b_cofeatkv_20260926/logs/m80_shard3.log"
+    },
+    {
+      "gpu": 0,
+      "m": 64,
+      "shard": 0,
+      "returncode": 0,
+      "log": "/home/jhl/model_inference/llm_infer/mmlu_qwen8b_cofeatkv_20260926/logs/m64_shard0.log"
+    },
+    {
+      "gpu": 5,
+      "m": 80,
+      "shard": 1,
+      "returncode": 0,
+      "log": "/home/jhl/model_inference/llm_infer/mmlu_qwen8b_cofeatkv_20260926/logs/m80_shard1.log"
+    },
+    {
+      "gpu": 6,
+      "m": 80,
+      "shard": 2,
+      "returncode": 0,
+      "log": "/home/jhl/model_inference/llm_infer/mmlu_qwen8b_cofeatkv_20260926/logs/m80_shard2.log"
+    },
+    {
+      "gpu": 3,
+      "m": 64,
+      "shard": 3,
+      "returncode": 0,
+      "log": "/home/jhl/model_inference/llm_infer/mmlu_qwen8b_cofeatkv_20260926/logs/m64_shard3.log"
+    }
+  ],
+  "status": "complete",
+  "gpu_assignment": {
+    "0": {
+      "m": 64,
+      "shard": 0
+    },
+    "1": {
+      "m": 64,
+      "shard": 1
+    },
+    "2": {
+      "m": 64,
+      "shard": 2
+    },
+    "3": {
+      "m": 64,
+      "shard": 3
+    },
+    "4": {
+      "m": 80,
+      "shard": 0
+    },
+    "5": {
+      "m": 80,
+      "shard": 1
+    },
+    "6": {
+      "m": 80,
+      "shard": 2
+    },
+    "7": {
+      "m": 80,
+      "shard": 3
+    }
+  },
+  "finished_at": "2026-09-26 19:05:43",
+  "results": [
+    {
+      "model": "/data/share/Qwen3-8B",
+      "method": "CoFeatKV",
+      "m": 64,
+      "shots": 0,
+      "protocol": "cofeatkv-compressed-final-prompt-token-v1",
+      "samples": 14042,
+      "correct": 10184,
+      "accuracy": 0.7252528129896026,
+      "subject_macro_accuracy": 0.7527318702622627
+    },
+    {
+      "model": "/data/share/Qwen3-8B",
+      "method": "CoFeatKV",
+      "m": 80,
+      "shots": 0,
+      "protocol": "cofeatkv-compressed-final-prompt-token-v1",
+      "samples": 14042,
+      "correct": 10240,
+      "accuracy": 0.7292408488819256,
+      "subject_macro_accuracy": 0.7542296482594333
+    }
+  ]
+}

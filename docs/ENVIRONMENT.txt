@@ -1,0 +1,22 @@
+CoFeatKV recorded environments (2026-09-27)
+
+Local qwen-opt:
+  Python 3.11.16
+  PyTorch 2.5.1+cu121
+  PyTorch CUDA 12.1
+  Transformers 4.57.6
+  NumPy 1.26.4
+  SciPy 1.17.1
+  GPU NVIDIA GeForce RTX 3090
+  Driver 575.57.08
+
+Remote 4090 qwen-opt:
+  Python 3.11.16
+  PyTorch 2.5.1+cu124
+  PyTorch CUDA 12.4
+  Transformers 4.51.3
+  NumPy 2.4.6
+  SciPy 1.17.1
+  GPU NVIDIA GeForce RTX 4090
+  Driver 595.58.03
+  Python /home/jhl/anaconda3/envs/qwen-opt/bin/python

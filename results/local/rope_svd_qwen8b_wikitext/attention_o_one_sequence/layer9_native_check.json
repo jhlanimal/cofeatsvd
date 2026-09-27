@@ -1,0 +1,8 @@
+{
+  "cosine_mean": 0.9999986886978149,
+  "cosine_median": 0.9999986886978149,
+  "cosine_p05": 0.9999980926513672,
+  "relative_squared_error": 2.942441142295138e-06,
+  "relative_l2_error": 0.001715354504995048,
+  "reference_zero_vectors": 0
+}

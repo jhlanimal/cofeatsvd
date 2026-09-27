@@ -1,0 +1,57 @@
+{
+  "niah_single_1": {
+    "samples": 100,
+    "target": 100,
+    "score": 100.0
+  },
+  "niah_single_2": {
+    "samples": 100,
+    "target": 100,
+    "score": 100.0
+  },
+  "niah_single_3": {
+    "samples": 100,
+    "target": 100,
+    "score": 100.0
+  },
+  "niah_multikey_1": {
+    "samples": 100,
+    "target": 100,
+    "score": 100.0
+  },
+  "niah_multikey_2": {
+    "samples": 100,
+    "target": 100,
+    "score": 100.0
+  },
+  "niah_multivalue": {
+    "samples": 100,
+    "target": 100,
+    "score": 100.0
+  },
+  "niah_multiquery": {
+    "samples": 100,
+    "target": 100,
+    "score": 100.0
+  },
+  "vt": {
+    "samples": 100,
+    "target": 100,
+    "score": 100.0
+  },
+  "cwe": {
+    "samples": 100,
+    "target": 100,
+    "score": 60.5
+  },
+  "fwe": {
+    "samples": 100,
+    "target": 100,
+    "score": 85.0
+  },
+  "qa_1": {
+    "samples": 100,
+    "target": 100,
+    "score": 81.0
+  }
+}

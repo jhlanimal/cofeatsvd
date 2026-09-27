@@ -1,0 +1,18 @@
+[
+  {
+    "prefill_total_ms": 495.1644287109375,
+    "decode_total_ms": 2483.673828125,
+    "nll": 545.8058471679688,
+    "ppl": 17.420056877388497,
+    "prompt_compression_ms": 0.0,
+    "peak_allocated": 1410748416,
+    "peak_reserved": 1442840576,
+    "method": "Full",
+    "repeat": 0,
+    "decode_ms_per_token": 38.807403564453125,
+    "tokens_per_sec": 25.768278940361313,
+    "tokens": 192,
+    "num_prediction_tokens": 191,
+    "mode": "quality"
+  }
+]

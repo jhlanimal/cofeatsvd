@@ -1,0 +1,31 @@
+RoPE low-rank analysis summary
+model: /mnt/data_sda1/share/Qwen3-8B
+transformers: 4.57.6
+layers=36, selected=[9, 18, 27], kv_heads=8, head_dim=128
+sequences=32, seq_len=4096, page_size=128, sampled_pages=[1, 5, 9, 13, 18, 22, 26, 30]
+norm_relative_error: {"mean": 0.0003764663026235831, "median": 0.000283636138192378, "max": 0.005607811734080315}
+
+Question 1: Post-RoPE vs Pre-RoPE reconstruction error
+rank 32: Pre=0.035780, Post=0.056031, relative increase=0.5660
+rank 64: Pre=0.005019, Post=0.010173, relative increase=1.0269
+rank 96: Pre=0.000279, Post=0.000882, relative increase=2.1658
+95% explained energy: Pre-RoPE mean rank=25.925, Post-RoPE mean rank=34.082
+
+Question 2: Post-RoPE feature similarity
+{
+  "metric": "absolute Pearson correlation",
+  "middle_layer": 18,
+  "num_matrices": 2048,
+  "mean_off_diagonal": 0.12917543947696686,
+  "median_off_diagonal": 0.1339985728263855,
+  "max_similarity_mean": 0.20657001435756683,
+  "max_similarity_median": 0.192962184548378,
+  "max_similarity_p25": 0.1654023863375187,
+  "max_similarity_p75": 0.2366098389029503,
+  "max_similarity_p90": 0.32568271458148956
+}
+Layer trends (Post-Pre error at rank 64): layer 9: 0.006281; layer 18: 0.004629; layer 27: 0.004552
+Counterexample layer/rank pairs where Post <= Pre: [(9, 128), (18, 128), (27, 128)]
+Observation 1: supported for 9/10 tested ranks based on aggregate error.
+Observation 2: aggregate mean off-diagonal absolute Pearson similarity=0.129175; the result is reported without selecting a page/head.
+Experiment C skipped: no standalone final CoFeatKV matched-budget grouping analysis API was used; no substitute grouping was invented.

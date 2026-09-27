@@ -1,0 +1,8 @@
+Grouped Post-RoPE K + SVD summary
+m=80, layers=[9, 18, 27], sequences=32, pages=[1, 5, 9, 13, 18, 22, 26, 30]
+rank 32: mean error across layers=0.102814; per-layer=0.119566, 0.089976, 0.098900
+rank 64: mean error across layers=0.061122; per-layer=0.070311, 0.052541, 0.060513
+rank 80: mean error across layers=0.056997; per-layer=0.066505, 0.047865, 0.056621
+full grouping error (before SVD): layer 9=0.066505, layer 18=0.047865, layer 27=0.056621
+95% energy rank of grouped C: layer 9=36.317, layer 18=34.212, layer 27=34.808; aggregate=35.112
+99% energy rank of grouped C: layer 9=54.932, layer 18=53.903, layer 27=54.224; aggregate=54.353

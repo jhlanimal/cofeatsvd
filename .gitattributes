@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+results/qwen_optimize/direct_profile_20260916/trace.json filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
