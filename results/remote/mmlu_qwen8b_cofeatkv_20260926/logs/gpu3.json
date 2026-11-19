@@ -1,1 +1,0 @@
-{"gpu": 3, "m": 64, "shard": 3, "pid": 2061925, "command": ["/home/jhl/anaconda3/envs/qwen-opt/bin/python", "-u", "/home/jhl/model_inference/llm_infer/mmlu_qwen8b_cofeatkv_20260926/code/run_mmlu_llama.py", "--output", "/home/jhl/model_inference/llm_infer/mmlu_qwen8b_cofeatkv_20260926/m64/shard3", "--m", "64", "--shard", "3", "--model", "/data/share/Qwen3-8B"]}

@@ -1,2 +1,0 @@
-method,mean_ms_per_token,median_ms_per_token,p95_ms_per_token,std_ms_per_token
-Ours-Direct-Fused m80,26.83044942220052,26.67952537536621,27.146500968933104,0.3203522845969416

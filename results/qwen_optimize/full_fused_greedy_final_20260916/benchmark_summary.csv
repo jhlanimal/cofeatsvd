@@ -1,2 +1,0 @@
-method,mean_ms_per_token,median_ms_per_token,p95_ms_per_token,std_ms_per_token
-Full-native-fused,27.204134623209637,27.200712203979492,27.25327663421631,0.05335368254519843
